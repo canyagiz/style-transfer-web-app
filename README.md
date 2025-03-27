@@ -28,3 +28,16 @@ A simple end-to-end web application that performs **neural style transfer** usin
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 docker-compose up --build
+```
+
+### 🖼️ Examples
+1. Candy
+![image](https://github.com/user-attachments/assets/24ca0cb5-3dd9-44ef-a408-d77681f73649)
+
+2. Composition 6
+![image](https://github.com/user-attachments/assets/e5f38cbc-e839-4bf6-845b-c9772b3cc845)
+
+3. Starry Night
+![image](https://github.com/user-attachments/assets/48866b1a-ee28-4a52-a732-f0ebca41bec0)
+
+and more!
